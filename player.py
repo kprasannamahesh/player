@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from tkinter import *
 #for entering of scores of players
 player1=[]
 player2=[]
